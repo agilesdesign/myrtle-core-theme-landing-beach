@@ -1,0 +1,17 @@
+{
+    "name": "agilesdesign/myrtle-core-theme-landing-beach",
+    "description": "Core Landing Page Theme for Myrtle WMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Myrtle\\Core\\Themes\\Landing\\Beach\\Theme\\": "src/Theme"
+        }
+    }
+}
