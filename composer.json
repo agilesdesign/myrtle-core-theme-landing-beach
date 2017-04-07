@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Myrtle\\Core\\Themes\\Landing\\Beach\\Theme\\": "src/Theme"
+            "Myrtle\\Themes\\Landing\\Beach\\Theme\\": "src/Theme"
         }
     }
 }
