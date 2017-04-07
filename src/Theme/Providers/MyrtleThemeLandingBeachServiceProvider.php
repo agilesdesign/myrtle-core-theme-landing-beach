@@ -14,7 +14,7 @@ class MyrtleThemeLandingBeachServiceProvider extends ServiceProvider
     public function boot()
     {
 		$this->publishes([
-			base_path(). '/vendor/agilesdesign/myrtle-core-theme-landing-beach/src/public' => public_path(),
+			base_path(). '/vendor/agilesdesign/myrtle-theme-landing-beach/src/public' => public_path(),
 		], 'public');
     }
 }
