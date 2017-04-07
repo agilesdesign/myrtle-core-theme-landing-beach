@@ -1,6 +1,6 @@
 <?php
 
-namespace Myrtle\Core\Themes\Landing\Beach\Theme\Providers;
+namespace Myrtle\Themes\Landing\Beach\Theme\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
